@@ -1,0 +1,4 @@
+POST https://accounts.spotify.com/api/token
+
+client_id 7aab03a31db0409aaaad189f23bd8f54
+client_secret 77f5f4ab97c145c883d27278ff96526c
