@@ -1,6 +1,9 @@
 # Spotiangular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
+Aplicación de Spotify creada en Angular
+
+![image](https://user-images.githubusercontent.com/51381732/151443249-07baa8da-2522-46e9-9447-a1a317247a3a.png)
+
 
 ## Development server
 
