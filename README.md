@@ -3,6 +3,10 @@
 Aplicación de Spotify creada en Angular
 
 ![image](https://user-images.githubusercontent.com/51381732/151443249-07baa8da-2522-46e9-9447-a1a317247a3a.png)
+![image](https://user-images.githubusercontent.com/51381732/151443310-9828149d-f4d9-4bf5-82b8-320266fd3d7a.png)
+![image](https://user-images.githubusercontent.com/51381732/151443326-51ffd162-a42c-4acf-80bb-0008a4d75e30.png)
+
+
 
 
 ## Development server
